@@ -1,2 +1,2 @@
 # crudproject1
-hello workd
+Implemented simple CRUD operation on database using django
